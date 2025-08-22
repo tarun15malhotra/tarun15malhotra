@@ -7,15 +7,10 @@
 - 💬 Ask me about **PHP, Laravel, Symfony, Node.js, Docker, Microservices**  
 - ⚡ Fun fact: I love solving **scaling challenges**  
 
-🛠️ Tech Stack
-
-💡 Languages:     JavaScript, PHP, SQL  
-⚛️ Frontend:      React.js, Vue.js  
-🎨 Styling:       CSS, Bootstrap, Tailwind  
-🖥 Backend:       Node.js, Core PHP, Laravel, Symfony  
-🗄 Databases:     MySQL, PostgreSQL, MongoDB  
-🧰 Tools:         Git, GitHub, Docker, Postman, VS Code, Figma, Vercel  
-
+### 🏆 Achievements
+- 🥇 8+ Years of Experience in Backend & Full-Stack Development  
+- 🚀 Led teams delivering enterprise-scale apps & integrations  
+- 🌍 Contributed to large vendor integrations (Galaxy, Disney, Derbysoft, etc.)  
 
 ### 🛠️ Tech Stack
 
@@ -51,5 +46,16 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+
+### ⚡ Fun Facts
+- 🧩 I love solving scaling & system design challenges  
+- 🎮 Casual gamer & tech explorer  
+- ☕ Runs on coffee + late-night coding  
+
+### 🌍 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarun-malhotra-72b26a62/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tarun15malhotra@gmail.com)
+
+
 
 
