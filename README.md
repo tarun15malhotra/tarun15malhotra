@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Tarun Malhotra  
 🚀 Technical Lead | 🛠 Backend Developer | 🌐 Full-Stack Developer  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&size=24&center=true&vCenter=true&width=600&lines=🚀+Technical+Lead+|+🛠+Backend+Developer+|+🌐+Full-Stack+Developer)](https://git.io/typing-svg)
+
 
 ### 💡 About Me  
 - 🔭 Currently working on **Microservices & System Design**  
