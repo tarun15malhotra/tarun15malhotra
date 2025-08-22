@@ -1,10 +1,6 @@
 # 👋 Hi, I'm Tarun Malhotra  
 🚀 Technical Lead | 🛠 Backend Developer | 🌐 Full-Stack Developer  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&size=24&center=true&vCenter=true&width=600&lines=🚀+Technical+Lead+|+🛠+Backend+Developer+|+🌐+Full-Stack+Developer)](https://git.io/typing-svg)
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=28&center=true&vCenter=true&width=600&lines=🚀+Technical+Lead;🛠+Backend+Developer;🌐+Full-Stack+Developer" alt="Typing Animation" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=28&center=true&vCenter=true&width=600&lines=🚀+Technical+Lead;🛠+Backend+Developer;🌐+Full-Stack+Developer" alt="Typing Animation" />
 
 ### 💡 About Me  
 - 🔭 Currently working on **Microservices & System Design**  
@@ -61,6 +57,14 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarun-malhotra-72b26a62/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tarun15malhotra@gmail.com)
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/tarun-malhotra-72b26a62/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:tarun15malhotra@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 
 
