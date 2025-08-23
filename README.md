@@ -1,5 +1,5 @@
 <p align="center">
-  <h1><b>👋 Hi, I'm Tarun Malhotra</b></h1>
+  <b><h1>👋 Hi, I'm Tarun Malhotra</h1></b>
   <br/>
   <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=28&center=true&vCenter=true&width=600&lines=🚀+Technical+Lead;🛠+Backend+Developer;🌐+Full-Stack+Developer" alt="Typing Animation" />
 </p>
