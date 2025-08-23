@@ -1,5 +1,5 @@
 <p align="center">
-# 👋 Hi, I'm Tarun Malhotra
+👋 <b>Hi, I'm Tarun Malhotra</b>
 </p>
 
 <p align="center">
