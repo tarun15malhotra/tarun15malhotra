@@ -1,6 +1,8 @@
 <p align="center">
 # 👋 Hi, I'm Tarun Malhotra
-<br/>
+</p>
+
+<p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=36&center=true&vCenter=true&width=600&lines=🚀+Technical+Lead;🛠+Backend+Developer;🌐+Full-Stack+Developer" alt="Typing Animation" />
 </p>
 
