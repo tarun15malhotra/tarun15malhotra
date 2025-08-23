@@ -14,6 +14,8 @@
 <p align="center">
 ### 🏆 Achievements
 </p>
+
+<h3 style="text-align: center;">🏆 Achievements</h3>
 ---
 
 ### 💡 About Me  
