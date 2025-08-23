@@ -6,6 +6,7 @@
 
 
 <p align="center"> <h1>👋 Hi, I'm Tarun Malhotra</h1> </p>
+<h1 style="text-align:center;">👋 Hi, I'm Tarun Malhotra</h1>
 
 <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=28&center=true&vCenter=true&width=600&lines=🚀+Technical+Lead;🛠+Backend+Developer;🌐+Full-Stack+Developer" alt="Typing Animation" />
 
