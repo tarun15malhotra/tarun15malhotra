@@ -10,11 +10,11 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=28&center=true&vCenter=true&width=600&lines=🚀+Technical+Lead;🛠+Backend+Developer;🌐+Full-Stack+Developer" alt="Typing Animation" />
 
-Hi 👋, I'm Shudhanshu Choudhary
 
-<p align="center">
+
+
 ### 🏆 Achievements
-</p>
+### 🏆 <b>Hi, I'm Tarun Malhotra</b>
 
 <h3 style="text-align: center;">🏆 Achievements</h3>
 ---
