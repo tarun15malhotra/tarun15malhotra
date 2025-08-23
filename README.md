@@ -12,11 +12,6 @@
 
 
 
-
-###                                              🏆 Achievements
-### 🏆 <b>Hi, I'm Tarun Malhotra</b>
-
-<h3 style="text-align: center;">🏆 Achievements</h3>
 ---
 
 ### 💡 About Me  
